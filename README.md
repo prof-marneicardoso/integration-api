@@ -1,10 +1,5 @@
-# React + Vite
+# Integração com a API (exemplo)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Use este exemplo como base para a integração das telas desenvolvidas em React com a API desenvolvida em Node.js
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-Técnicas apresentadas pelo professor @carlosxjm para consumo de api usando react.
+ - Lembrando que este é um exemplo de integração, onde os nomes dos arquivos, tabelas e campos, precisam ser alterados para se adequar ao seu projeto.
